@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @mohammad27hasan
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning Computing.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-mohammad27hasan/mohammad27hasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Data Structures.
+- 💞️ I’m looking to collaborate on Research and Development.
+- 📫 Reach me: mohammad_hasan27@outlook.com
