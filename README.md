@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mohammad27hasan
+- 👋 Hi, I’m Mohammad Hasan
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Data Structures.
 - 💞️ I’m looking to collaborate on Research and Development.
-- 📫 Reach me: mohammad_hasan27@outlook.com
